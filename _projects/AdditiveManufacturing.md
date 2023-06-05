@@ -44,13 +44,6 @@ ILC is well-suited for AM processes since they often include trajectory repetiti
 
 We experimentally validate the process monitoring and control strategy by fabricating 3D periodic lattice structures, specifically functionally graded scaffolds. The corrected prints utilizing the proposed process monitoring and control strategy show reduced errors in the material's bead width.
 
-<div class="video-container">
-    {% include video.html path="https://www.youtube.com/embed/9qlxqjawbMU" class="img-fluid rounded z-depth-1"%}
-</div>
-<div class="caption">
-    Fabricating a functionally graded scaffold.
-</div>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/AM_ORiginal_Corrected_Reference_2.png" class="img-fluid rounded z-depth-1" zoomable=false 
